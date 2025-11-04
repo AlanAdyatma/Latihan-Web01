@@ -1,0 +1,54 @@
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table {
+    width: 40%;
+    margin: 20px auto;
+}
+
+th.header {
+    height: 75px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: khaki;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th.navi {
+    text-align: center;
+    height: 40px;
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td.heading {
+    width: 75%;
+    padding: 55px 15px;
+    padding-left: 20px;
+    vertical-align: top;
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td.menu {
+    width: 25%;
+    padding: 55px;
+    padding-left: 0px;
+    vertical-align: top;
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th.fot {
+    text-align: center;
+    height: 40px;
+    background-color: khaki;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th h5 {
+    margin: 0;
+    padding: 0;
+}
